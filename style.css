@@ -37,7 +37,7 @@ container {
   border-radius: 0.5em;
 }
 
-h2 {
+h1 {
   font-weight: 600;
   margin-bottom: 20px;
   color: var(--white);
@@ -147,19 +147,20 @@ hr {
   border: var(--line) 1px solid;
 }
 
-.attribution {
+footer {
   position: absolute;
   bottom: 10px;
   background-color: var(--main-bg);
   text-align: center;
   color: var(--white);
+  font-size: 0.5em;
 }
 
-.attribution a {
+footer a {
   color: var(--white);
   font-size: 1em;
 }
 
-.attribution a:hover {
+footer a:hover {
   color: var(--cyan);
 }

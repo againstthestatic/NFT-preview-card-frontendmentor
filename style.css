@@ -18,7 +18,7 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap");
 
-.container {
+container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -30,7 +30,7 @@
 .card {
   display: flex;
   flex-direction: column;
-  height: 500px;
+  height: 450px;
   width: 300px;
   padding: 10px;
   background-color: var(--card-bg);
